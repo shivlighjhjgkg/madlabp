@@ -12,10 +12,12 @@ public class ImageAdapter extends BaseAdapter {
     Context context;
 
     int[] images = {
-            R.drawable.img1,
-            R.drawable.img2,
-            R.drawable.img3,
-            R.drawable.img4
+            R.drawable.img_1,
+            R.drawable.img_2,
+            R.drawable.img_3,
+            R.drawable.img_4,
+            R.drawable.img,
+            R.drawable.img_5
     };
 
     public ImageAdapter(Context context) {
